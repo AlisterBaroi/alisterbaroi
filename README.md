@@ -8,21 +8,11 @@ My Website: <a href="https://alisterbaroi.me" target="_blank">alisterbaroi.me</a
 - 🌱 I'm currently studying Bachalors of Computer Science @ **Taylors University** (Malaysia)
 - 👯 Specilizating in AI & minoring in FinTech 
 
-
 <!-- ![Your Repository's Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlisterBaroi) -->
-
 <!-- ![Your Repository's Stats](https://github-profile-trophy.vercel.app/?username=AlisterBaroi)  -->
-
-
 <!-- ![Your Repository's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlisterBaroi&theme=vue) -->
-
-
 <!-- ### 😂 Here's a joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)  -->
-
-
-              
-
 <!--
 **AlisterBaroi/alisterbaroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,67 +28,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AlisterBaroi&show_icons=true) 
+
 <details>
   <summary>📃 Resume</summary>
-
-
+  
 ## Education
-
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+  
+- 🔬 **Bachalors of Computer Science (Honours)** | Artificial Intelligence, Financial Technology\
+📆 2020 - 2023 (expected)\
+📍 **Taylor's University** - Selangor, Malaysia
+  
+- 📖 **Foundation in Computing**\
+📆 2019 - 2020\
+📍 **Taylor's College** - Selengor, Malaysia
+  
+- 📖 **CIE AS & A Levels: Physics, Chemistry, Pure Maths, Mechanics**\
+📆 2016 - 2018\
+📍 **British Council** - Dhaka, Bangladesh
 
 ## Experience
-
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - moment\
-📍 **Xp Inc** - São Paulo/SP, Brazil
-  
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - oct/2021\
-📍 **Avanade** - São Paulo/SP, Brazil
-  
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - jun/2021\
-📍 **Squadra Digital** - Belo Horizonte/MG, Brazil
-
-<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
-- 👨‍💻 **CIO and Cross Mobile Developer**\
-📆 2016 - 2021\
-📍 **Infinitus Solutions** - Curitiba/PR, Brazil
-
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
-
-- 👨‍💻 **Systems Analyst and Front End Developer**\
-📆 2015 - 2016\
-📍 **Web Works** - Presidente Prudente/SP, Brazil
-
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
-
 
 - 👨‍💻 **Office Assistant**\
 📆 2011 - 2015\
 📍 **Energisa** - Presidente Prudente/SP, Brazil
+  
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
 
 <!--## Skills
 
