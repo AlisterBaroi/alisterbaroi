@@ -6,13 +6,8 @@ My Website: <a href="https://alisterbaroi.me" target="_blank">alisterbaroi.me</a
 - 👯 Specilizating in AI & minoring in FinTech
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AlisterBaroi&show_icons=true)  
-### 😂 Here's a joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api) 
-
-
-
-
-
+<!-- ### 😂 Here's a joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)  -->
 
 <!--
 **AlisterBaroi/alisterbaroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
