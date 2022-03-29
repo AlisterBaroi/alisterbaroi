@@ -7,7 +7,7 @@ My Website: <a href="https://alisterbaroi.me" target="_blank">alisterbaroi.me</a
 - 🌱 I'm currently studying Bachalors of Computer Science @ **Taylors University** (Malaysia)
 - 👯 Specilizating in AI & minoring in FinTech
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AlisterBaroi&show_icons=true) 
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AlisterBaroi&show_icons=true)  -->
 <!-- ![Your Repository's Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlisterBaroi) -->
 
 <!-- ![Your Repository's Stats](https://github-profile-trophy.vercel.app/?username=AlisterBaroi)  -->
