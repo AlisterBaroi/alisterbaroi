@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 <a href="https://www.linkedin.com/in/alisterbaroi/" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>  <a href="https://www.instagram.com/alister.baroi/" target="_blank"><img align="right" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/></a> 
 My Website: <a href="https://alisterbaroi.me" target="_blank">alisterbaroi.me</a> 👈 
-<a href="https://www.linkedin.com/in/alisterbaroi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>  <a href="https://www.instagram.com/alister.baroi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/></a> 
+
 
 
 ### About Me 
@@ -15,9 +15,7 @@ My Website: <a href="https://alisterbaroi.me" target="_blank">alisterbaroi.me</a
 ![Jokes Card](https://readme-jokes.vercel.app/api)  -->
 <!--
 **AlisterBaroi/alisterbaroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -47,15 +45,22 @@ Here are some ideas to get you started:
 📍 **British Council** - Dhaka, Bangladesh
 
 ## Experience
-
+  
+- 💼 **Technical Associate**\
+📆 Oct/2021 - Present\
+📍 **Google Developer Student Club** - Taylor's University
+  <img align="right" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />  
+<!-- 
 - 👨‍💻 **Office Assistant**\
 📆 2011 - 2015\
 📍 **Energisa** - Presidente Prudente/SP, Brazil
-  
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" /> -->
 
 <!--## Skills
 
@@ -80,7 +85,6 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://img.shields.io/badge/English-B2-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
 <img align="right" src="https://img.shields.io/badge/Italian-mother tongue-green?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWl0IiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+DQogIDxnIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLXdpZHRoPSIxcHQiPg0KICAgIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPg0KICAgIDxwYXRoIGZpbGw9IiMwMDkyNDYiIGQ9Ik0wIDBoMjEzLjN2NDgwSDB6Ii8+DQogICAgPHBhdGggZmlsbD0iI2NlMmIzNyIgZD0iTTQyNi43IDBINjQwdjQ4MEg0MjYuN3oiLz4NCiAgPC9nPg0KPC9zdmc+" />
-
 -->
 
 </details>
