@@ -1,8 +1,9 @@
 ## Hi there 👋
-My Website: <a href="https://alisterbaroi.me" target="_blank">alisterbaroi.me</a>
+My Website: <a href="https://alisterbaroi.me" target="_blank">alisterbaroi.me</a> 👈
 ### About Me
+- 💬 I'm from Bangladesh
 - 🌱 I'm currently studying Bachalors of Computer Science @ **Taylors University**
-- 👯 I'm specilizating in AI & minoring in FinTech
+  - 👯 Specilizating in AI & minoring in FinTech
 
 <!--
 **AlisterBaroi/alisterbaroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
