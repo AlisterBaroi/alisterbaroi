@@ -5,11 +5,10 @@ My Website: <a href="https://alisterbaroi.me" target="_blank">alisterbaroi.me</a
 - 🌱 I'm currently studying Bachalors of Computer Science @ **Taylors University** (Malaysia)
 - 👯 Specilizating in AI & minoring in FinTech
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AlisterBaroi&show_icons=true)  
+### 😂 Here's a joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api) 
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-<!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=AlisterBaroi/breast-cancer-diagnosis-predictor) -->
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AlisterBaroi&show_icons=true) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlisterBaroi&theme=light)
 
 
 
