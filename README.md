@@ -1,8 +1,14 @@
 ## Hi there 👋 
 My Website: <a href="https://alisterbaroi.me" target="_blank">alisterbaroi.me</a> 👈 
 <a href="https://www.instagram.com/alister.baroi/" target="_blank"><img align="right" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://www.linkedin.com/in/alisterbaroi/" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-
-
+<!-- <details> 
+  <summary>About Me</summary>
+  
+- 💬 My name is Alister Animesh Baroi & I'm from Bangladesh
+- 🌱 I'm currently studying Bachalors of Computer Science @ **Taylors University** (Malaysia)
+- 👯 Specilizating in AI & minoring in FinTech 
+</details> -->
+  <!-- ### About Me  -->
 ### About Me 
 - 💬 My name is Alister Animesh Baroi & I'm from Bangladesh
 - 🌱 I'm currently studying Bachalors of Computer Science @ **Taylors University** (Malaysia)
@@ -25,7 +31,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details> 
+  <summary>📈 My Stats</summary><br>
+    
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AlisterBaroi&show_icons=true) 
+![Your Repository's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlisterBaroi&theme=vue)
+</details>
+
+
 
 <details>
   <summary>📃 Resume</summary>
