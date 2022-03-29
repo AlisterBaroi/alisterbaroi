@@ -1,7 +1,8 @@
 ## Hi there 👋
-### My Website: <a href="https://alisterbaroi.me" target="_blank">Alister Baroi</a>
+### My Website: <a href="https://alisterbaroi.me" target="_blank">alisterbaroi.me</a>
+🌱 I’m currently studying Bachalors of Computer Science @ **Taylors University**, specilizating in AI & minoring in FinTech
 
-<!--
+<!-
 **AlisterBaroi/alisterbaroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
