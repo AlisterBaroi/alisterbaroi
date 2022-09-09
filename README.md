@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   <img align="right" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />  
   
-- 👨‍💻 **DevOps Engineer Intern**\
+- 🌐 **DevOps Engineer Intern**\
 📆 Aug/2011 - Present\
 📍 **[Kambyan Networks](https://github.com/Kambyan-Projects)** - Petaling Jaya, Selangor, Malaysia  
   <img align="right" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green" />
