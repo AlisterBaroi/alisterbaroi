@@ -2,33 +2,28 @@
 My Website: <a href="https://alisterbaroi.me" target="_blank">alisterbaroi.me</a> 👈 
 <a href="https://www.instagram.com/alister.baroi/" target="_blank"><img align="right" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://www.linkedin.com/in/alisterbaroi/" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
-
 <a target="_blank" align="center">
-  <img align="right" top="0" height="150" width="200" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="0" height="15%" width="20%" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-
-<!-- <details> 
-  <summary>About Me</summary>
-  
-- 💬 My name is Alister Animesh Baroi & I'm from Bangladesh
-- 🌱 I'm currently studying Bachalors of Computer Science @ **Taylors University** (Malaysia)
-- 👯 Specilizating in AI & minoring in FinTech 
-</details> -->
-  <!-- ### About Me  -->
+<!-- About Me  -->
 ### About Me 
 - 💬 My name is Alister Animesh Baroi & I'm from Bangladesh
 - 🌱 I'm currently studying Bachalors of Computer Science @ **Taylors University** (Malaysia)
 - 👯 Specilizating in AI & minoring in FinTech 
 
+<!-- <details> 
+  <summary>About Me</summary>
+- 💬 My name is Alister Animesh Baroi & I'm from Bangladesh
+- 🌱 I'm currently studying Bachalors of Computer Science @ **Taylors University** (Malaysia)
+- 👯 Specilizating in AI & minoring in FinTech 
+</details> -->
 
-
-<!-- ![Your Repository's Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlisterBaroi) -->
-<!-- ![Your Repository's Stats](https://github-profile-trophy.vercel.app/?username=AlisterBaroi)  -->
-<!-- ![Your Repository's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlisterBaroi&theme=vue) -->
+<!-- ![Your Repository's Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlisterBaroi)
+![Your Repository's Stats](https://github-profile-trophy.vercel.app/?username=AlisterBaroi)
+![Your Repository's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlisterBaroi&theme=vue)
 <!-- ### 😂 Here's a joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)  -->
-<!--
+![Jokes Card](https://readme-jokes.vercel.app/api)
 **AlisterBaroi/alisterbaroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
