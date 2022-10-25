@@ -49,10 +49,6 @@ Here are some ideas to get you started:
 <!-- ![Your Repository's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlisterBaroi&theme=vue) -->
 <!-- ![Your Repository's Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlisterBaroi&theme=vue) -->
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=AlisterBaroi&layout=compact&theme=vue) -->
-
-
-
-
 </details>
 
 
@@ -60,20 +56,8 @@ Here are some ideas to get you started:
 <details>
   <summary>📃 Resume</summary>
   
-## Education
   
-- 🔬 **Bachalors of Computer Science (Honours)** | Artificial Intelligence, Financial Technology\
-📆 2020 - 2023 (expected)\
-📍 **Taylor's University** - Selangor, Malaysia
   
-- 📖 **Foundation in Computing**\
-📆 2019 - 2020\
-📍 **Taylor's College** - Selengor, Malaysia
-  
-- 📖 **CIE AS & A Levels: Physics, Chemistry, Pure Maths, Mechanics**\
-📆 2016 - 2018\
-📍 **British Council** - Dhaka, Bangladesh
-
 ## Experience
 
 - 💼 **DevOps Engineer Intern**\
@@ -91,8 +75,22 @@ Here are some ideas to get you started:
   <img align="right" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />  
+  <img align="right" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" /> 
+ 
+## Education
   
+- 🔬 **Bachalors of Computer Science (Honours)** | Artificial Intelligence, Financial Technology\
+📆 2020 - 2023 (expected)\
+📍 **Taylor's University** - Selangor, Malaysia
+  
+- 📖 **Foundation in Computing**\
+📆 2019 - 2020\
+📍 **Taylor's College** - Selengor, Malaysia
+  
+- 📖 **CIE AS & A Levels: Physics, Chemistry, Pure Maths, Mechanics**\
+📆 2016 - 2018\
+📍 **British Council** - Dhaka, Bangladesh
+ 
 <!--## Skills
 
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
