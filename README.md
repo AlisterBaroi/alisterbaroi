@@ -1,6 +1,13 @@
 ## Hi there 👋 
 My Website: <a href="https://alisterbaroi.me" target="_blank">alisterbaroi.me</a> 👈 
 <a href="https://www.instagram.com/alister.baroi/" target="_blank"><img align="right" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://www.linkedin.com/in/alisterbaroi/" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+
+
+<a target="_blank" align="center">
+  <img align="right" top="0" height="150" width="200" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+
 <!-- <details> 
   <summary>About Me</summary>
   
@@ -13,6 +20,8 @@ My Website: <a href="https://alisterbaroi.me" target="_blank">alisterbaroi.me</a
 - 💬 My name is Alister Animesh Baroi & I'm from Bangladesh
 - 🌱 I'm currently studying Bachalors of Computer Science @ **Taylors University** (Malaysia)
 - 👯 Specilizating in AI & minoring in FinTech 
+
+
 
 <!-- ![Your Repository's Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlisterBaroi) -->
 <!-- ![Your Repository's Stats](https://github-profile-trophy.vercel.app/?username=AlisterBaroi)  -->
