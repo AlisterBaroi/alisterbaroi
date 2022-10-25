@@ -3,7 +3,7 @@ My Website: <a href="https://alisterbaroi.me" target="_blank">alisterbaroi.me</a
 <a href="https://www.instagram.com/alister.baroi/" target="_blank"><img align="right" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://www.linkedin.com/in/alisterbaroi/" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 <a target="_blank" align="center">
-  <img align="right" top="0" height="15%" width="20%" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="0" height="22.5%" width="30%" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 <!-- About Me  -->
