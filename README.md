@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AlisterBaroi&show_icons=true) -->
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AlisterBaroi&show_icons=true"/>
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlisterBaroi&theme=vue"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlisterBaroi&theme=vue"/>
 <img width="64.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlisterBaroi&theme=vue"/>
 <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlisterBaroi&layout=compact&theme=vue"/>
 
