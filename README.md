@@ -62,20 +62,23 @@ Here are some ideas to get you started:
 
 - 💼 **DevOps Engineer Intern**\
 📆 Aug/2011 - Present\
-📍 **[Kambyan Networks](https://github.com/Kambyan-Projects)** - Petaling Jaya, Selangor, Malaysia  
-  <img align="right" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green" />
-  <img align="right" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
+📍 **[Kambyan Networks](https://github.com/Kambyan-Projects)** - Petaling Jaya, Selangor, Malaysia<br>
+👓 Skills:<br>
+  <img align="" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green" />
+  <img align="" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
+  <img align="" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
+  <img align="" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
+  <img align="" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
+  <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />   
   
-- 👓 **Technical Associate**\
+- 💼 **Technical Associate**\
 📆 Oct/2021 - Present\
-📍 **Google Developer Student Club** - Taylor's University, Selangor, Malaysia
-  <img align="right" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" /> 
+📍 **Google Developer Student Club** - Taylor's University, Selangor, Malaysia<br>
+👓 Skills:<br>
+  <img align="" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img align="" src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white" />
+  <img align="" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" />
+  <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" /> 
  
 ## Education
   
