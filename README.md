@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 My Resume</summary>
   
   
   
