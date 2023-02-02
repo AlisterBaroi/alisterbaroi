@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ## Relevant Experience
 
 - 💼 **DevOps Engineer Intern**\
-📆 Aug/2011 - Present\
+📆 Aug/2022 - Present\
 📍 **[Kambyan Networks](https://github.com/Kambyan-Projects)** - Petaling Jaya, Selangor, Malaysia<br>
 👓 Skills:<br>
   <img align="" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green" />
