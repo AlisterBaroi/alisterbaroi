@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />   
   
 - 💼 **Technical Associate**\
-📆 Oct/2021 - Present\
+📆 Oct/2021 - Oct/2022\
 📍 **Google Developer Student Club** - Taylor's University, Selangor, Malaysia<br>
 👓 Skills:<br>
   <img align="" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
