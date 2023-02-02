@@ -8,7 +8,7 @@ My Website: <a href="https://alisterbaroi.me" target="_blank">alisterbaroi.me</a
 
 <!-- About Me  -->
 ### About Me 
-- 💬 My name is Alister Animesh Baroi & I'm from Bangladesh
+- 💬 My name is Alister Animesh Baroi & I'm an interhational student from Bangladesh
 - 🌱 I'm currently studying Bachalors of Computer Science @ **Taylors University** (Malaysia)
 - 👯 Specilizating in AI & minoring in FinTech 
 
