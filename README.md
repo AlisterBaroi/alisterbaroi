@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ## Relevant Experience
 
 - 💼 **DevOps Engineer Intern**\
-📆 Aug/2022 - Present\
+📆 Aug 2022 - Jun 2023\
 📍 **[Kambyan Networks](https://github.com/Kambyan-Projects)** - Petaling Jaya, Selangor, Malaysia<br>
 👓 Skills:<br>
   <img align="" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green" />
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />   
   
 - 💼 **Technical Associate**\
-📆 Oct/2021 - Oct/2022\
+📆 Oct 2021 - Oct 2022\
 📍 **Google Developer Student Club** - Taylor's University, Selangor, Malaysia<br>
 👓 Skills:<br>
   <img align="" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
