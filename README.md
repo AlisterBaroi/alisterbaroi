@@ -82,16 +82,16 @@ Here are some ideas to get you started:
  
 ## Education
   
-- 🔬 **Bachalors of Computer Science (Honours)** | Artificial Intelligence, Financial Technology\
-📆 2020 - 2023 (expected)\
+- 🔬 **Bachalors of Computer Science (Honours)**, Major in AI, Minor in FinTech\
+📆 Aug 2020 - Aug 2023 | 📈 GCPA: 3.54/4\
 📍 **Taylor's University** - Selangor, Malaysia
   
 - 📖 **Foundation in Computing**\
-📆 2019 - 2020\
+📆 Aug 2019 - Aug 2020 | 📈 GCPA: 3.44/4\
 📍 **Taylor's College** - Selengor, Malaysia
   
 - 📖 **CIE AS & A Levels: Physics, Chemistry, Pure Maths, Mechanics**\
-📆 2016 - 2018\
+📆 June 2016 - July 2018\
 📍 **British Council** - Dhaka, Bangladesh
  
 <!--## Skills
