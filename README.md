@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 ## Relevant Experience
 
 - 💼 **DevOps Engineer Intern**\
+📍 **[Kambyan Networks](https://github.com/Kambyan-Projects)** - Petaling Jaya, Selangor, Malaysia \
 📆 Aug 2022 - Jun 2023\
-📍 **[Kambyan Networks](https://github.com/Kambyan-Projects)** - Petaling Jaya, Selangor, Malaysia<br>
-👓 Skills:<br>
+👓 Skills: \
   <img align="" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green" />
   <img align="" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
@@ -72,9 +72,9 @@ Here are some ideas to get you started:
   <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />   
   
 - 💼 **Technical Associate**\
+📍 **Google Developer Student Club** - Taylor's University, Selangor, Malaysia \
 📆 Oct 2021 - Oct 2022\
-📍 **Google Developer Student Club** - Taylor's University, Selangor, Malaysia<br>
-👓 Skills:<br>
+👓 Skills: \
   <img align="" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" />
