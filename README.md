@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   
 ## Relevant Experience
 
-- 💼 **DevOps Engineer Intern**\
+- 💼 **DevOps Engineer (WBL Apprenticeship)**\
 📍 **[Kambyan Networks](https://github.com/Kambyan-Projects)** - Petaling Jaya, Selangor, Malaysia \
 📆 Aug 2022 - Jun 2023\
 👓 Skills: \
