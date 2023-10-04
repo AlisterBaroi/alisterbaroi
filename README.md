@@ -86,6 +86,10 @@ Here are some ideas to get you started:
 📍 **Taylor's University** - Selangor, Malaysia \
 📆 Aug 2020 - Aug 2023 | 📈 GCPA: 3.54/4
 
+- 🔬 **Bachalors of Science with Honours**, Computer Science \
+📍 **University of the West of England** - Bristol, United Kingdom \
+📆 Aug 2020 - Aug 2023 | 📈 GCPA: 3.54/4 \
+📝 Note: Dual Award Program with Taylor's University 
   
 - 📖 **Foundation in Computing**\
 📍 **Taylor's College** - Selengor, Malaysia \
