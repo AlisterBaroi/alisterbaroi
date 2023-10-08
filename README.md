@@ -84,16 +84,16 @@ Here are some ideas to get you started:
   
 - 🔬 **Bachalors of Computer Science (Honours)**, Major in AI, Minor in FinTech\
 📍 **Taylor's University** - Selangor, Malaysia \
-📆 Aug 2020 - Aug 2023 | 📈 CGPA: 3.54/4.0
+📆 Aug 2020 - Aug 2023 | 📈 CGPA: 3.54/4.00
 
 - 🔬 **Bachalors of Science with Honours**, Computer Science \
 📍 **University of the West of England** - Bristol, United Kingdom \
-📆 Aug 2020 - Aug 2023 | 📈 CGPA: 3.54/4.0 \
+📆 Aug 2020 - Aug 2023 | 📈 CGPA: 3.54/4.00 \
 📝 Note: Dual Award Program with Taylor's University 
   
 - 📖 **Foundation in Computing**\
 📍 **Taylor's College** - Selengor, Malaysia \
-📆 Aug 2019 - Aug 2020 | 📈 CGPA: 3.44/4.0
+📆 Aug 2019 - Aug 2020 | 📈 CGPA: 3.44/4.00
   
 - 📖 **CIE AS & A Levels: Physics, Chemistry, Pure Maths, Mechanics**\
 📍 **British Council** - Dhaka, Bangladesh \
