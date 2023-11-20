@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ## Relevant Experience
 
 - 💼 **Solutions Architect (Remote)**\
-📍 **[Read Global Consultants (Read Jobs)](https://github.com/Kambyan-Projects)** - London, United Kingdom (UK) \
+📍 **[Read Global Consultants (Read Jobs)](https://github.com/Read-Jobs)** - London, United Kingdom (UK) \
 📆 Oct 2023 - Present\
 👔 Skills: \
   <!-- <img align="" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green" /> -->
