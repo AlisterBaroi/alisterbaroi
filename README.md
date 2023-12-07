@@ -8,9 +8,10 @@ My Website: <a href="https://alisterbaroi.live" target="_blank">alisterbaroi.liv
 
 <!-- About Me  -->
 ### About Me 💬 
-- 📍 Made in Bangladesh 
-- 🏆 Computer Science (Honours) graduate from **Taylors University** (Malaysia)
-- 🔥 Majored in AI & minored in FinTech 
+- 📍 Made in Dhaka, Bangladesh,
+- 👔 Cloud Solutions Architect, 
+- 🏆 Computer Science (Honours) graduate from **Taylors University** (Malaysia),
+  - 🔥 Majored in AI & minored in FinTech
 
 <!-- <details> 
   <summary>About Me</summary>
