@@ -5,6 +5,7 @@ My Website: <a href="https://alisterbaroi.live" target="_blank">alisterbaroi.liv
 <a target="_blank" align="center">
   <img align="right" top="0" height="21%" width="28%" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+
 <!-- About Me  -->
 ### About Me 💬
 - 📍 Made in Dhaka, Bangladesh,
