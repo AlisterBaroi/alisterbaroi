@@ -1,5 +1,5 @@
-## Hi there 👋
-My Website: <a href="https://alisterbaroi.live" target="_blank">alisterbaroi.live</a> 👈  
+## Hi there 👋 
+My Website: <a href="https://alisterbaroi.live" target="_blank">alisterbaroi.live</a> 👈 
 <a href="https://www.instagram.com/alister.baroi/" target="_blank"><img align="right" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://www.linkedin.com/in/alisterbaroi/" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 <a target="_blank" align="center">
@@ -7,7 +7,7 @@ My Website: <a href="https://alisterbaroi.live" target="_blank">alisterbaroi.liv
 </a>
 
 <!-- About Me  -->
-### About Me 💬
+### About Me 💬 
 - 📍 Made in Dhaka, Bangladesh,
 - 👔 Cloud Solutions Architect, 
 - 🏆 Computer Science (Honours) graduate from **Taylors University** (Malaysia),
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
+<hr>
 <details> 
   <summary>📈 My Stats</summary><br>
     
@@ -138,4 +138,3 @@ Here are some ideas to get you started:
 -->
 
 </details>
-
