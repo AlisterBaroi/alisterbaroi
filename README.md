@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr>
+---
 <details> 
   <summary>📈 My Stats</summary><br>
     
