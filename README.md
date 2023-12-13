@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   
 ## Relevant Experience
 
-- 💼 **Solutions Architect (Remote)**\
+- 💼 **Cloud Solutions Architect (Remote)**\
 📍 **[Read Global Consultants (Read Jobs)](https://github.com/Read-Jobs)** - London, United Kingdom (UK) \
 📆 Oct 2023 - Present\
 👔 Skills:  
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   <!-- <img align="" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green" /> -->
   <!-- <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" /> -->   
 
-- 💼 **DevOps Engineer (WBL Apprenticeship)**\
+- 💼 **DevOps Engineer (Apprenticeship)**\
 📍 **[Kambyan Networks](https://github.com/Kambyan-Projects)** - Petaling Jaya, Selangor, Malaysia \
 📆 Aug 2022 - Jun 2023\
 👔 Skills: \
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
   <img align="" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />   
   
-- 💼 **Technical Associate**\
+- 💼 **Technical Associate (Mentor)**\
 📍 **Google Developer Student Club** - Taylor's University, Selangor, Malaysia \
 📆 Oct 2021 - Oct 2022\
 👔 Skills: \
