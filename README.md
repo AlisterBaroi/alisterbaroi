@@ -118,7 +118,6 @@ Here are some ideas to get you started:
 
 You can download my full resume [Here](https://alisterbaroi.live/img/Full_Resume_Alister_Animesh_Baroi.pdf)🔽
 
- 
 <!--## Skills
 
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
@@ -145,3 +144,4 @@ You can download my full resume [Here](https://alisterbaroi.live/img/Full_Resume
 -->
 
 </details>
+
