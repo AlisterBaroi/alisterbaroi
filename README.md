@@ -116,6 +116,8 @@ Here are some ideas to get you started:
 📍 **British Council** - Dhaka, Bangladesh \
 📆 June 2016 - July 2018
 
+You can download my full resume [Here](https://alisterbaroi.live/img/Full_Resume_Alister_Animesh_Baroi.pdf)🔽
+
  
 <!--## Skills
 
