@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   
 ## Relevant Experience
 
-- 💼 **Cloud Solutions Architect (Remote)**\
+- 💼 **Lead Cloud Architect (Remote)**\
 📍 **[Read Global Consultants (Read Jobs)](https://github.com/Read-Jobs)** - London, United Kingdom (UK) \
 📆 Oct 2023 - Present\
 👔 Skills:  
