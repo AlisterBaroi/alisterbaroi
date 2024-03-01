@@ -70,23 +70,26 @@ Here are some ideas to get you started:
 📍 **[Read Global Consultants (Read Jobs)](https://github.com/Read-Jobs)** - London, United Kingdom (UK) \
 📆 Oct 2023 - Present\
 👔 Skills:  
-  <img align="" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
-  <img align="" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
+  <img align="" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi)" />
+  <img align="" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
+  <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
+  <img align="" src="https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white" />
+  <!-- <img align="" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" /> --> 
   <!-- <img align="" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green" /> -->
-  <!-- <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" /> -->   
+  
 
 - 💼 **DevOps Engineer (Apprenticeship)**\
 📍 **[Kambyan Networks](https://github.com/Kambyan-Projects)** - Petaling Jaya, Selangor, Malaysia \
 📆 Aug 2022 - Jun 2023\
 👔 Skills: \
+  <img align="" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green" />
   <img align="" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
-  <img align="" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
-  <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />   
+  <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
   
 - 💼 **Technical Associate (Mentor)**\
 📍 **Google Developer Student Club** - Taylor's University, Selangor, Malaysia \
