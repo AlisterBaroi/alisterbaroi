@@ -9,7 +9,7 @@ My Website: <a href="https://alisterbaroi.live" target="_blank">alisterbaroi.liv
 <!-- About Me  -->
 ### About Me 💬 
 - 📍 Made in Dhaka, Bangladesh,
-- 👔 Cloud Solutions Architect, 
+- 👔 Lead Cloud Architect, 
 - 🏆 Computer Science (Honours) graduate from **Taylors University** (Malaysia),
 - 🔥 Majored in AI & minored in FinTech
 
