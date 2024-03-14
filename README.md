@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ## Relevant Experience
 
 - 💼 **Lead Cloud Architect (Remote)**\
-📍 **[Read Global Consultants (Read Jobs)](https://github.com/Read-Jobs)** - London, United Kingdom (UK) \
+📍 **[Read Global Consultants](https://github.com/Read-Jobs)** - London, United Kingdom (UK) \
 📆 Oct 2023 - Present\
 👔 Skills:  
   <img align="" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
