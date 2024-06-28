@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 📍 **British Council** - Dhaka, Bangladesh \
 📆 June 2016 - July 2018
 
-View full resume [Here](https://drive.google.com/file/d/1LLs3UgpVucCrWV6vABog660N_gl0Dk43/view)
+View full resume [Here](https://drive.google.com/file/d/1LLs3UgpVucCrWV6vABog660N_gl0Dk43/view){:target="_blank"}
 
 <!--## Skills
 
