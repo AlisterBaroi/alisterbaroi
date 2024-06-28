@@ -120,9 +120,15 @@ Here are some ideas to get you started:
 📍 **British Council** - Dhaka, Bangladesh \
 📆 June 2016 - July 2018
 
-View full resume [Here](https://drive.google.com/file/d/1LLs3UgpVucCrWV6vABog660N_gl0Dk43/view){:target="_blank"}
+View full resume <a href="https://drive.google.com/file/d/1LLs3UgpVucCrWV6vABog660N_gl0Dk43/view" target="_blank">Here</a>
 
-<!--## Skills
+
+
+<!--
+[Here](https://drive.google.com/file/d/1LLs3UgpVucCrWV6vABog660N_gl0Dk43/view){:target="_blank"}
+
+## Skills
+
 
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
