@@ -11,8 +11,8 @@ My Website: [alisterbaroi.streamlit.app](https://alisterbaroi.streamlit.app/) �
 ### About Me 💬 
 - 📍 Made in Dhaka, Bangladesh,
 - 👔 Experience: AI/ML, Backend, Cloud & DevOps, 
-- 🔥 Pursuing MSc. in AI at **Munster Technological University** (🇮🇪 Ireland),
-- 🏆 Computer Science (Honours) graduate from **Taylors University** (🇲🇾 Malaysia),
+- 🔥 Pursuing MSc. in AI at **Munster Technological University**, 🇮🇪,
+- 🏆 Computer Science (Honours) graduate from **Taylors University**, 🇲🇾
 <!-- - 🔥 Majored in AI & minored in FinTech -->
 
 <!-- <details> 
