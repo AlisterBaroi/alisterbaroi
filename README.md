@@ -10,7 +10,8 @@ My Website: [alisterbaroi.streamlit.app](https://alisterbaroi.streamlit.app/) �
 <!-- About Me  -->
 ### About Me 💬 
 - 📍 Made in Dhaka, Bangladesh,
-- 👔 Lead Cloud Architect, 
+- 👔 Experienced: Cloud, DevOps, Backend, AI/ML,
+- 🏆 Pursuing MSc. in AI at **Munster Technological University** (Ireland),
 - 🏆 Computer Science (Honours) graduate from **Taylors University** (Malaysia),
 - 🔥 Majored in AI & minored in FinTech
 
@@ -67,9 +68,9 @@ Here are some ideas to get you started:
   
 ## Relevant Experience
 
-- 💼 **Lead Cloud Architect (Remote)**\
+- 💼 **Cloud Architect (Remote)**\
 📍 **[Read Global Consultants](https://github.com/Read-Jobs)** - London, United Kingdom (UK) \
-📆 Oct 2023 - Present\
+📆 Mar 2024 - Nov 2024\
 👔 Skills:  
   <img align="" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi)" />
@@ -77,6 +78,17 @@ Here are some ideas to get you started:
   <img align="" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
   <img align="" src="https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white" />
+
+- 💼 **Solutions Architect (Remote)**\
+📍 **[Read Global Consultants](https://github.com/Read-Jobs)** - London, United Kingdom (UK) \
+📆 Oct 2023 - Mar 2024\
+👔 Skills:  
+  <!-- <img align="" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" /> --> 
+  <!-- <img align="" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi)" /> --> 
+  <img align="" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
+  <img align="" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
+  <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
+  <!-- <img align="" src="https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white" /> --> 
   <!-- <img align="" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" /> --> 
   <!-- <img align="" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green" /> -->
   
@@ -102,6 +114,10 @@ Here are some ideas to get you started:
   <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" /> 
  
 ## Education
+
+- 🔬 **Master of Science in Artificial Intelligence (MSc. in AI)**\
+📍 **Munster Technological University (MTU)** - Cork, Ireland \
+📆 Sep 2024 - Present | 📈 CGPA: ~
   
 - 🔬 **Bachalors of Computer Science (Honours)**, Major in AI, Minor in FinTech\
 📍 **Taylor's University** - Selangor, Malaysia \
