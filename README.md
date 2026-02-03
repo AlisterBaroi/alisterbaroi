@@ -68,9 +68,22 @@ Here are some ideas to get you started:
   
 ## Relevant Experience
 
-- 💼 **Cloud Architect (Remote)**\
+- 💼 **Technical Evangelist (AI & Cloud)**\
+📍 **[Tigera Inc.](https://tigera.io)** - Cork City, Cork, Ireland \
+📆 Jan 2026 - Present
+<!--
+👔 Skills:
+  <img align="" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
+  <img align="" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi)" />
+  <img align="" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
+  <img align="" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
+  <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
+  <img align="" src="https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white" />
+--> 
+- 💼 **Cloud Architect (Lead) & Backend Engineer – Remote**\
 📍 **[Read Global Consultants](https://github.com/Read-Jobs)** - London, United Kingdom (UK) \
-📆 Mar 2024 - Nov 2024\
+📆 Mar 2024 - Nov 2024
+<!--
 👔 Skills:  
   <img align="" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi)" />
@@ -78,24 +91,28 @@ Here are some ideas to get you started:
   <img align="" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
   <img align="" src="https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white" />
+  --> 
 
-- 💼 **Solutions Architect (Remote)**\
+- 💼 **Solutions Architect – Remote**\
 📍 **[Read Global Consultants](https://github.com/Read-Jobs)** - London, United Kingdom (UK) \
-📆 Oct 2023 - Mar 2024\
+📆 Oct 2023 - Mar 2024
+<!--
 👔 Skills:  
-  <!-- <img align="" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" /> --> 
-  <!-- <img align="" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi)" /> --> 
   <img align="" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
+--> 
+  <!-- <img align="" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" /> --> 
+  <!-- <img align="" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi)" /> --> 
   <!-- <img align="" src="https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white" /> --> 
   <!-- <img align="" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" /> --> 
   <!-- <img align="" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green" /> -->
   
 
-- 💼 **DevOps Engineer (Apprenticeship)**\
+- 💼 **DevOps Engineer – Apprenticeship**\
 📍 **[Kambyan Networks](https://github.com/Kambyan-Projects)** - Petaling Jaya, Selangor, Malaysia \
-📆 Aug 2022 - Jun 2023\
+📆 Aug 2022 - Jun 2023
+<!--
 👔 Skills: \
   <img align="" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green" />
@@ -103,29 +120,31 @@ Here are some ideas to get you started:
   <img align="" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
-  
+  --> 
 - 💼 **Technical Associate (Mentor)**\
 📍 **Google Developer Student Club** - Taylor's University, Selangor, Malaysia \
-📆 Oct 2021 - Oct 2022\
+📆 Oct 2021 - Oct 2022
+<!--
 👔 Skills: \
   <img align="" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" /> 
- 
+ --> 
 ## Education
 
 - 🔬 **Master of Science in Artificial Intelligence (MSc. in AI)**\
 📍 **Munster Technological University (MTU)** - Cork, Ireland \
-📆 Sep 2024 - Present | 📈 CGPA: ~
+📆 Sep 2024 - Oct 2025 | 📈 Grade: 2:1 (Second Class Honours) \
+📄 Thesis: Genetic Algorithm-Driven Hyperparameter Optimization for Vision Transformers (ViTs)
   
 - 🔬 **Bachalors of Computer Science (Honours)**, Major in AI, Minor in FinTech\
 📍 **Taylor's University** - Selangor, Malaysia \
-📆 Aug 2020 - Aug 2023 | 📈 CGPA: 3.54/4.00
+📆 Aug 2020 - Aug 2023 | 📈 CGPA: 3.54/4.00 (Second Class Upper Honours)
 
 - 🔬 **Bachalors of Science with Honours**, Computer Science \
 📍 **University of the West of England** - Bristol, United Kingdom \
-📆 Aug 2020 - Aug 2023 | 📈 CGPA: 3.54/4.00 \
+📆 Aug 2020 - Aug 2023 | 📈 CGPA: 3.54/4.00 (Second Class Honours, Upper Division) \
 📝 Note: Dual Award Program with Taylor's University 
   
 - 📖 **Foundation in Computing**\
