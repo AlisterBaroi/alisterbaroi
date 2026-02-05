@@ -41,15 +41,20 @@ Here are some ideas to get you started:
 ---
 <details> 
   <summary>📈 My Stats</summary><br>
-    
+<img width="46%" src="https://github-readme-stats-tau-ten-45.vercel.app/api?username=AlisterBaroi&count_private=true&show_icons=true&include_all_commits=true&rank_icon=default&theme=vue"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlisterBaroi&theme=vue"/>
+<img width="64%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlisterBaroi&theme=vue"/>
+<img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alisterbaroi&theme=vue&utcOffset=8"/>
+  
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alisterbaroi&theme=vue"/>
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alisterbaroi&theme=vue"/>
+<!-- <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alisterbaroi&theme=vue&utcOffset=8"/> -->
   
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AlisterBaroi&show_icons=true) -->
 <!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AlisterBaroi&show_icons=true"/> -->
-<img width="49.5%" src="https://github-readme-stats-tau-ten-45.vercel.app/api?username=AlisterBaroi&count_private=true&show_icons=true&include_all_commits=true&rank_icon=default&theme=vue"/>
 <!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AlisterBaroi&count_private=true&show_icons=true&include_all_commits=true&rank_icon=default"/> -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlisterBaroi&theme=vue"/>
-<img width="64.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlisterBaroi&theme=vue"/>
-<img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlisterBaroi&size_weight=0.5&count_weight=0.5&layout=compact&theme=vue"/>
+
+
 
 <!-- ![Alister's Github Stats](https://github-readme-stats-tau-ten-45.vercel.app/api?username=alisterbaroi) -->
 
