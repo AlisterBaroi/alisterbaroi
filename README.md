@@ -68,8 +68,8 @@ Here are some ideas to get you started:
   
 ## Relevant Experience
 
-- 💼 **Technical Evangelist (AI & Cloud)**\
-📍 **[Tigera Inc.](https://tigera.io)** - Cork City, Cork, Ireland \
+- 💼 **Technical Evangelist (in AI)**\
+📍 **[Tigera](https://tigera.io)** - Cork City, Cork, Ireland \
 📆 Jan 2026 - Present
 <!--
 👔 Skills:
@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 
 - 💼 **Solutions Architect – Remote**\
 📍 **[Read Global Consultants](https://github.com/Read-Jobs)** - London, United Kingdom (UK) \
-📆 Oct 2023 - Mar 2024
+📆 Aug 2023 - Mar 2024
 <!--
 👔 Skills:  
   <img align="" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 
 - 💼 **DevOps Engineer – Apprenticeship**\
 📍 **[Kambyan Networks](https://github.com/Kambyan-Projects)** - Petaling Jaya, Selangor, Malaysia \
-📆 Aug 2022 - Jun 2023
+📆 Aug 2022 - Jul 2023
 <!--
 👔 Skills: \
   <img align="" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
@@ -121,6 +121,10 @@ Here are some ideas to get you started:
   <img align="" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
   --> 
+- 💼 **Software Engineer (Co-Founder)**\
+📍 **Mashag Technology** - Subang Jaya, Selangor, Malaysia \
+📆 Aug 2022 - Mar 2023
+
 - 💼 **Technical Associate (Mentor)**\
 📍 **Google Developer Student Club** - Taylor's University, Selangor, Malaysia \
 📆 Oct 2021 - Oct 2022
@@ -131,6 +135,11 @@ Here are some ideas to get you started:
   <img align="" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" />
   <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" /> 
  --> 
+
+- 💼 **Software Engineer Intern**\
+📍 **Fend Tech** - Subang Jaya, Selangor, Malaysia \
+📆 Mar 2022 - Jul 2022
+
 ## Education
 
 - 🔬 **Master of Science in Artificial Intelligence (MSc. in AI)**\
