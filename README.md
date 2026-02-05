@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AlisterBaroi&show_icons=true) -->
 <!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AlisterBaroi&show_icons=true"/> -->
-<img width="49.5%" src="https://github-readme-stats-tau-ten-45.vercel.app/api?username=AlisterBaroi&count_private=true&show_icons=true&include_all_commits=true&rank_icon=default"/>
+<img width="49.5%" src="https://github-readme-stats-tau-ten-45.vercel.app/api?username=AlisterBaroi&count_private=true&show_icons=true&include_all_commits=true&rank_icon=default&theme=vue"/>
 <!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AlisterBaroi&count_private=true&show_icons=true&include_all_commits=true&rank_icon=default"/> -->
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlisterBaroi&theme=vue"/>
 <img width="64.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlisterBaroi&theme=vue"/>
