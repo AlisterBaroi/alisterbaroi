@@ -89,7 +89,7 @@ Here are some ideas to get you started:
   <img align="" src="https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white" />
 --> 
 - 💼 **Cloud Architect (Lead) & Backend Engineer – Remote**\
-📍 **[Read Global Consultants](https://github.com/Read-Jobs)** - London, United Kingdom (UK) \
+📍 **[Read Global Consultants](https://github.com/Read-Jobs)** - London, UK \
 📆 Mar 2024 - Nov 2024
 <!--
 👔 Skills:  
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
   --> 
 
 - 💼 **Solutions Architect – Remote**\
-📍 **[Read Global Consultants](https://github.com/Read-Jobs)** - London, United Kingdom (UK) \
+📍 **[Read Global Consultants](https://github.com/Read-Jobs)** - London, UK \
 📆 Aug 2023 - Mar 2024
 <!--
 👔 Skills:  
@@ -160,7 +160,7 @@ Here are some ideas to get you started:
 📆 Aug 2020 - Aug 2023 | 📈 CGPA: 3.54/4.00 (Second Class Upper Honours)
 
 - 🔬 **Bachalors of Science with Honours**, Computer Science \
-📍 **University of the West of England** - Bristol, United Kingdom \
+📍 **University of the West of England** - Bristol, UK \
 📆 Aug 2020 - Aug 2023 | 📈 CGPA: 3.54/4.00 (Second Class Honours, Upper Division) \
 📝 Note: Dual Award Program with Taylor's University 
   
@@ -168,7 +168,7 @@ Here are some ideas to get you started:
 📍 **Taylor's College** - Selengor, Malaysia \
 📆 Aug 2019 - Aug 2020 | 📈 CGPA: 3.44/4.00
   
-- 📖 **CIE AS & A Levels: Physics, Chemistry, Pure Maths, Mechanics**\
+- 📖 **Cambridge International Examination (CIE) AS & A Levels: Physics, Chemistry, Pure Maths, Mechanics**\
 📍 **British Council** - Dhaka, Bangladesh \
 📆 June 2016 - July 2018
 
