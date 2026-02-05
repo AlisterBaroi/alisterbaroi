@@ -122,7 +122,7 @@ Here are some ideas to get you started:
   <img align="" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
   --> 
 - 💼 **Software Engineer (Co-Founder)**\
-📍 **Mashag Technology** - Subang Jaya, Selangor, Malaysia \
+📍 **[Mashag Technology](https://github.com/Mashag-Technology)** - Subang Jaya, Selangor, Malaysia \
 📆 Aug 2022 - Mar 2023
 
 - 💼 **Technical Associate (Mentor)**\
@@ -164,7 +164,7 @@ Here are some ideas to get you started:
 📍 **British Council** - Dhaka, Bangladesh \
 📆 June 2016 - July 2018
 
-View full resume <a href="https://drive.google.com/file/d/1LLs3UgpVucCrWV6vABog660N_gl0Dk43/view" target="_blank">Here</a>
+View full resume <a href="https://drive.google.com/file/d/1i_-09HG6EZRKCXVHGhZAMC9drkK1noDX/view" target="_blank">Here</a>
 
 
 
