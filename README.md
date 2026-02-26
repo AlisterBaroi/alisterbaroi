@@ -76,7 +76,7 @@ Here are some ideas to get you started:
   
 ## Relevant Experience
 
-- 💼 **Technical Evangelist (in AI)**\
+- 💼 **Technical Evangelist**\
 📍 **[Tigera](https://tigera.io)** - Cork City, Cork, Ireland \
 📆 Jan 2026 - Present
 <!--
