@@ -9,7 +9,7 @@ Portfolio: [alisterbaroi.streamlit.app](https://alisterbaroi.streamlit.app/) �
 
 <!-- About Me  -->
 ### About Me 💬 
-- 📍 Made in Dhaka, Bangladesh | located in Cork, Ireland
+<!-- - 📍 Made in Dhaka, Bangladesh | located in Cork, Ireland -->
 - 👔 Experience: Cloud/Solutions Architect, DevOps, Backend, & AI/ML
 - 🔥 MSc. in AI graduate from **Munster Technological University** (![flag](https://github.com/user-attachments/assets/c0cd4647-04e4-400e-94d8-390ba39bfcfa) IE),
 - 🏆 Computer Science graduate from **Taylors University** (![world-flag](https://github.com/user-attachments/assets/76af327b-960e-4867-987a-5ed835db34bb) MY)
