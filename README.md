@@ -1,7 +1,7 @@
 ### Hi there 👋 
 <!-- My Website: <a href="https://alisterbaroi.live" target="_blank">alisterbaroi.live</a> 👈  -->
 Portfolio: [alisterbaroi.streamlit.app](https://alisterbaroi.streamlit.app/) 👈 
-<a href="https://www.linkedin.com/newsletters/the-ai-trend-report-7452820048127315968" target="_blank"><img align="right" width="28%" src="https://img.shields.io/badge/Subscribe_to_my-LinkedIn_Newsletter-0A66C2" alt="Subscribe to LinkedIn"/></a> 
+<a href="https://www.linkedin.com/newsletters/the-ai-trend-report-7452820048127315968" target="_blank"><img align="right" width="28%" src="https://img.shields.io/badge/Subscribe_👉-LinkedIn_Newsletter-0A66C2" alt="Subscribe to LinkedIn"/></a> 
 <!-- <a href="https://www.linkedin.com/in/alisterbaroi/" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn Badge"/></a> -->
 
 <a target="_blank" align="center">
