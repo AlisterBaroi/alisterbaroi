@@ -3,6 +3,7 @@
 Portfolio: [alisterbaroi.streamlit.app](https://alisterbaroi.streamlit.app/) 👈 
 <a href="https://www.linkedin.com/newsletters/the-ai-trend-report-7452820048127315968" target="_blank"><img align="right" width="28%" src="https://img.shields.io/badge/Subscribe_👉-LinkedIn_Newsletter-0A66C2" alt="Subscribe to LinkedIn"/></a> 
 <!-- <a href="https://www.linkedin.com/in/alisterbaroi/" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn Badge"/></a> -->
+Badges: [Google Developers](https://me.developers.google.com/u/114033068386628752379), [Credily](https://www.credly.com/users/alisterbaroi)
 
 <a target="_blank" align="center">
   <img align="right" top="0" width="28%" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
